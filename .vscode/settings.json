@@ -1,0 +1,16 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "cSpell.words": [
+        "arange",
+        "figsize",
+        "fscore",
+        "matplotlib",
+        "newaxis",
+        "preds",
+        "pyplot",
+        "savefig",
+        "Scikit",
+        "sklearn",
+        "sklearn's"
+    ]
+}
